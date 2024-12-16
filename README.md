@@ -1,5 +1,4 @@
 
-[![MasterHead]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBCfWep0oJJs4oQXv5MecszRxgPZG3CE_Mg&s)
 <h1 align="center">Hi 👋, I'm Naina Lakhe</h1>
 <img align="right" alt="Coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 

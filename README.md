@@ -14,6 +14,10 @@
 <p align="left">
 <a href="https://fb.com/naina lakhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naina lakhe" height="30" width="40" /></a>
 <a href="https://instagram.com/_nainalakhe.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nainalakhe.0" height="30" width="40" /></a>
+<a href="https://twitter.com/LakheNaina24885" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning.
 
-- 📫 How to reach me **lakhenaina@gmail.com**
+- 📫 How to reach me **nainalakhebiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
